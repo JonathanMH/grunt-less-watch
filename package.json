@@ -1,0 +1,17 @@
+{
+  "name": "grunt-less-watch",
+  "version": "0.0.1",
+  "description": "",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-less": "~0.7.0",
+    "grunt-contrib-watch": "~0.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}

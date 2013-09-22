@@ -1,0 +1,18 @@
+{
+  "name": "grunt-less-watch",
+  "version": "0.0.0",
+  "authors": [
+    "Jonathan M. Hethey <public@jonathanmh.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.0"
+  }
+}
